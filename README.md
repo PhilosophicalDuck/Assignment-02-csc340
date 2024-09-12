@@ -1,4 +1,4 @@
-# Assignment 03 
+# Assignment 02 
 ## Author Logan Keiper
 - Clone the project (or download zip) and open it in IntelliJ.
 - MAC OS users may need to change the permissions (chmod -R 777 path/to/project/folder in your terminal) for the project folder when they clone or download this repo.
